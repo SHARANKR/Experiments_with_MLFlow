@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/972621734523544199/ecb15949039043048a33a9f0006c2025/artifacts
+deleted_time: 1742460100858
+end_time: 1742460057750
+entry_point_name: ''
+experiment_id: '972621734523544199'
+lifecycle_stage: deleted
+run_id: ecb15949039043048a33a9f0006c2025
+run_name: gregarious-fly-46
+run_uuid: ecb15949039043048a33a9f0006c2025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742460057648
+status: 3
+tags: []
+user_id: win10

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/972621734523544199/7d7e0755dfb944ce9d93d9df1d8a5baf/artifacts
+end_time: 1742460207857
+entry_point_name: ''
+experiment_id: '972621734523544199'
+lifecycle_stage: active
+run_id: 7d7e0755dfb944ce9d93d9df1d8a5baf
+run_name: illustrious-fish-788
+run_uuid: 7d7e0755dfb944ce9d93d9df1d8a5baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742460207448
+status: 3
+tags: []
+user_id: win10

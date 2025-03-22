@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/972621734523544199/a0e82b496f624100a2a8dafe6742d6c2/artifacts
+end_time: 1742460085320
+entry_point_name: ''
+experiment_id: '972621734523544199'
+lifecycle_stage: active
+run_id: a0e82b496f624100a2a8dafe6742d6c2
+run_name: shivering-jay-46
+run_uuid: a0e82b496f624100a2a8dafe6742d6c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742460085216
+status: 3
+tags: []
+user_id: win10

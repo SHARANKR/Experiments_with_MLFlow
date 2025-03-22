@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/972621734523544199/5f933b1718564c98b3da3cf52bb810ad/artifacts
+end_time: 1742459966843
+entry_point_name: ''
+experiment_id: '972621734523544199'
+lifecycle_stage: active
+run_id: 5f933b1718564c98b3da3cf52bb810ad
+run_name: honorable-bass-374
+run_uuid: 5f933b1718564c98b3da3cf52bb810ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742459966734
+status: 3
+tags: []
+user_id: win10
